@@ -1,0 +1,108 @@
+{
+  "login": [
+    {
+      "name": "lindos",
+      "password": "lindos"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "email": "pizzahut@test.com",
+      "rating": "4.5",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "address": "New Town",
+      "email": "kfc@test.com",
+      "rating": "5.7",
+      "id": 2
+    },
+    {
+      "name": "Coffe Cup",
+      "address": "Gazipur",
+      "email": "cofee@test.com",
+      "rating": "6.2",
+      "id": 3
+    },
+    {
+      "name": "Nanna Biryani",
+      "address": "Kazi Ullauddin Road",
+      "email": "nanna@test.com",
+      "rating": "6.5",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 6,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "name": "W B Restaurant",
+      "email": "wbr@test.com",
+      "address": "Noida , Delhi",
+      "rating": "4.3",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "BBQ nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "bbdn@test.com"
+    },
+    {
+      "id": 9,
+      "name": "Haldiram nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "noida",
+      "rating": "4.7",
+      "id": 10
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "South Delhi",
+      "rating": "4.7",
+      "id": 11
+    },
+    {
+      "name": "sid food",
+      "email": "kfc@test.com",
+      "address": "Delhi",
+      "rating": "4.1",
+      "id": 12
+    },
+    {
+      "name": "youtube",
+      "email": "testresto@youtube.com",
+      "rating": "4.9",
+      "address": "google",
+      "id": 13
+    },
+    {
+      "name": "youtube 2",
+      "email": "testresto2@youtube.com",
+      "rating": "3.1",
+      "address": "google 2",
+      "id": 14
+    }
+  ]
+}
